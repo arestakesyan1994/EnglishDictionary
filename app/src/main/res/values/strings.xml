@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">English Dictionary</string>
+    <string name="app_names">Learn Words</string>
+    <string name="tab_text_1">Show all words</string>
+    <string name="tab_text_2">Switch</string>
+    <string name="tab_text_3">Questions</string>
+    <string name="tab_text_4">Shuffle</string>
+    <string name="english">english</string>
+    <string name="armenia">armenia</string>
+    <string name="example">example</string>
+    <string name="enversion">enVersion</string>
+    <string name="all">All</string>
+</resources>
